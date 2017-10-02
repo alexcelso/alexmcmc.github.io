@@ -80,7 +80,7 @@ var projects = {
     {
        "title" : "Site para apresentar Empresa",
        "date" : "2015",
-       "description" : "Site simple para apresentar a empresa essa site seria temporários pois estariam elaborando um sistema conpleto",
+       "description" : "Site simple para apresentar a empresa essa site seria temporários pois estariam elaborando um sistema completo",
        "images" : ["images/197x148.gif", "images/197x148.gif"],
        "url" : "http://www.lconlimpeza.com/"
     }    
